@@ -8,11 +8,11 @@
 
 
 ## Key Points
-📊 Project Overview
+### 📊 Project Overview
 
 The PW Skills Home Page is a responsive website designed to showcase the offerings, courses, and services provided by PW Skills. Built with HTML and Tailwind CSS, the project delivers a modern and engaging user interface, optimized for both desktop and mobile devices. The site includes essential sections like navigation, banners, product highlights, and contact information to enhance user engagement.
 
-🛠 Tools and Technologies
+### 🛠 Tools and Technologies
 
 Frontend: HTML, Tailwind CSS
 
@@ -22,7 +22,7 @@ Responsive Design: Tailwind CSS utility classes for mobile and desktop layouts
 
 Icons: Flaticon for high-quality illustrations
 
-📋 Objectives
+### 📋 Objectives
 
 Provide a modern and visually appealing platform to showcase PW Skills offerings.
 
@@ -30,7 +30,7 @@ Ensure responsive design for an optimal user experience across devices.
 
 Highlight key features like courses, products, and contact details effectively.
 
-📊 Key Features
+### 📊 Key Features
 
 Responsive Design: Seamless layout adjustments for desktop and mobile devices.
 
@@ -48,7 +48,7 @@ Footer: Includes contact details, links, and branding.
 
 Typography: Clean and consistent text styling for readability.
 
-🖥 Dashboard Highlights
+### 🖥 Dashboard Highlights
 
 Hero Banner: Displays featured content with responsive images for desktop and mobile.
 
