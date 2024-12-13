@@ -1,6 +1,11 @@
 PW Skills Home Page
 My Project look like this
+![Screenshot (995)](https://github.com/user-attachments/assets/59ca16eb-c616-4084-8cc2-98d5d330aa66)
+
 ![Screenshot (996)](https://github.com/user-attachments/assets/e7bf1387-c020-4ee1-9673-432dd52c98a3)
+
+![Screenshot (997)](https://github.com/user-attachments/assets/0648a75c-caa7-4ff7-a048-ec59280e282a)
+
 
 
 📊 Project Overview
